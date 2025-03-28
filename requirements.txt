@@ -1,0 +1,13 @@
+/*
+ * Author: Chao Li
+ * Contact: lucianolee@zju.edu.cn
+ * Company: Zhejiang University
+ * Created: Wednesday March 26th 2025 3:15:06 pm
+ * Last Modified: Wednesday March 26th 2025 3:15:14 pm
+ */
+
+scikit-learn>=1.0.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+tqdm>=4.60.0
+
